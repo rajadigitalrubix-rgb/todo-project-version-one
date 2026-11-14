@@ -1,0 +1,25 @@
+h1 {
+    font-weight: 700;
+    margin: 5px;
+    margin-bottom: 15px;
+}
+
+input {
+
+    width: 100%;
+    margin: 10px 1px;
+
+}
+
+.todobutton {
+    width: 80px;
+    margin: 5px;
+}
+
+.item-text {
+    text-align: left;
+}
+
+.container-margin{
+    margin:15px;
+}
